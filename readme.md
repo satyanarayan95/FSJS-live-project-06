@@ -8,7 +8,7 @@
 
 ![name](https://img.shields.io/badge/Satya--Narayan--Patra-Software--Developer-green)
 
-## Project 6 [Live Link]()
+## Project 6 [Live Link](https://monstera-landing-page.netlify.app/)
 
 -   Skills Gained in this project
     -   Learned positioning elements
